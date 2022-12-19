@@ -1,0 +1,686 @@
+com/jaydeep/FShare/activity/ShareActivity.java
+ com.jaydeep.FShare.activity.ShareActivity
+ com.jaydeep.FShare.activity.ShareActivity$1
+ com.jaydeep.FShare.activity.ShareActivity$2
+ com.jaydeep.FShare.activity.ShareActivity$3
+ com.jaydeep.FShare.activity.ShareActivity$SelectableStream
+com/jaydeep/FShare/widget/SwipeTouchSelectionListener.java
+ com.jaydeep.FShare.widget.SwipeTouchSelectionListener
+com/jaydeep/FShare/view/TextDrawable.java
+ com.jaydeep.FShare.view.TextDrawable
+ com.jaydeep.FShare.view.TextDrawable$1
+ com.jaydeep.FShare.view.TextDrawable$Builder
+ com.jaydeep.FShare.view.TextDrawable$IBuilder
+ com.jaydeep.FShare.view.TextDrawable$IConfigBuilder
+ com.jaydeep.FShare.view.TextDrawable$IShapeBuilder
+com/jaydeep/FShare/util/TransferUtils.java
+ com.jaydeep.FShare.util.TransferUtils
+ com.jaydeep.FShare.util.TransferUtils$1
+ com.jaydeep.FShare.util.TransferUtils$2
+ com.jaydeep.FShare.util.TransferUtils$3
+ com.jaydeep.FShare.util.TransferUtils$4
+ com.jaydeep.FShare.util.TransferUtils$4$1
+ com.jaydeep.FShare.util.TransferUtils$4$2
+ com.jaydeep.FShare.util.TransferUtils$4$2$1
+ com.jaydeep.FShare.util.TransferUtils$4$3
+ com.jaydeep.FShare.util.TransferUtils$4$3$1
+ com.jaydeep.FShare.util.TransferUtils$5
+ com.jaydeep.FShare.util.TransferUtils$5$1
+ com.jaydeep.FShare.util.TransferUtils$5$1$1
+ com.jaydeep.FShare.util.TransferUtils$5$2
+ com.jaydeep.FShare.util.TransferUtils$5$2$1
+ com.jaydeep.FShare.util.TransferUtils$6
+ com.jaydeep.FShare.util.TransferUtils$6$1
+ com.jaydeep.FShare.util.TransferUtils$6$2
+ com.jaydeep.FShare.util.TransferUtils$ConnectionUpdatedListener
+com/jaydeep/FShare/base/App.java
+ com.jaydeep.FShare.base.App
+ com.jaydeep.FShare.base.App$1
+com/jaydeep/FShare/util/PowerfulActionModeSupport.java
+ com.jaydeep.FShare.util.PowerfulActionModeSupport
+com/jaydeep/FShare/util/TimeUtils.java
+ com.jaydeep.FShare.util.TimeUtils
+com/jaydeep/FShare/dialog/FileDeletionDialog.java
+ com.jaydeep.FShare.dialog.FileDeletionDialog
+ com.jaydeep.FShare.dialog.FileDeletionDialog$1
+ com.jaydeep.FShare.dialog.FileDeletionDialog$1$1
+ com.jaydeep.FShare.dialog.FileDeletionDialog$Listener
+com/jaydeep/FShare/activity/ChangeStoragePathActivity.java
+ com.jaydeep.FShare.activity.ChangeStoragePathActivity
+com/jaydeep/FShare/adapter/ImageListAdapter.java
+ com.jaydeep.FShare.adapter.ImageListAdapter
+ com.jaydeep.FShare.adapter.ImageListAdapter$ImageHolder
+com/jaydeep/FShare/db/AccessDatabase.java
+ com.jaydeep.FShare.db.AccessDatabase
+ com.jaydeep.FShare.db.AccessDatabase$1
+ com.jaydeep.FShare.db.AccessDatabase$2
+ com.jaydeep.FShare.db.AccessDatabase$3
+com/jaydeep/FShare/util/NetworkDeviceScanner.java
+ com.jaydeep.FShare.util.NetworkDeviceScanner
+ com.jaydeep.FShare.util.NetworkDeviceScanner$Scanner
+ com.jaydeep.FShare.util.NetworkDeviceScanner$ScannerExecutor
+ com.jaydeep.FShare.util.NetworkDeviceScanner$ScannerHandler
+com/jaydeep/FShare/dialog/ConnectionChooserDialog.java
+ com.jaydeep.FShare.dialog.ConnectionChooserDialog
+ com.jaydeep.FShare.dialog.ConnectionChooserDialog$1
+ com.jaydeep.FShare.dialog.ConnectionChooserDialog$2
+ com.jaydeep.FShare.dialog.ConnectionChooserDialog$ConnectionListAdapter
+com/jaydeep/FShare/dialog/ProfileEditorDialog.java
+ com.jaydeep.FShare.dialog.ProfileEditorDialog
+ com.jaydeep.FShare.dialog.ProfileEditorDialog$1
+ com.jaydeep.FShare.dialog.ProfileEditorDialog$2
+ com.jaydeep.FShare.dialog.ProfileEditorDialog$3
+com/jaydeep/FShare/service/Service.java
+ com.jaydeep.FShare.service.Service
+com/jaydeep/FShare/view/SharingActionModeCallback.java
+ com.jaydeep.FShare.view.SharingActionModeCallback
+ com.jaydeep.FShare.view.SharingActionModeCallback$SelectionDuo
+com/jaydeep/FShare/activity/WebShareActivity.java
+ com.jaydeep.FShare.activity.WebShareActivity
+ com.jaydeep.FShare.activity.WebShareActivity$1
+ com.jaydeep.FShare.activity.WebShareActivity$2
+com/jaydeep/FShare/adapter/TransferAssigneeListAdapter.java
+ com.jaydeep.FShare.adapter.TransferAssigneeListAdapter
+com/jaydeep/FShare/adapter/ShareableListFragment.java
+ com.jaydeep.FShare.adapter.ShareableListFragment
+ com.jaydeep.FShare.adapter.ShareableListFragment$1
+ com.jaydeep.FShare.adapter.ShareableListFragment$MIMEGrouper
+com/jaydeep/FShare/fragment/VideoListFragment.java
+ com.jaydeep.FShare.fragment.VideoListFragment
+ com.jaydeep.FShare.fragment.VideoListFragment$1
+ com.jaydeep.FShare.fragment.VideoListFragment$1$1
+ com.jaydeep.FShare.fragment.VideoListFragment$1$2
+ com.jaydeep.FShare.fragment.VideoListFragment$1$3
+ com.jaydeep.FShare.fragment.VideoListFragment$2
+com/jaydeep/FShare/util/NotificationUtils.java
+ com.jaydeep.FShare.util.NotificationUtils
+com/jaydeep/FShare/widget/GalleryGroupEditableListAdapter.java
+ com.jaydeep.FShare.widget.GalleryGroupEditableListAdapter
+ com.jaydeep.FShare.widget.GalleryGroupEditableListAdapter$GalleryGroupShareable
+com/jaydeep/FShare/util/NetworkUtils.java
+ com.jaydeep.FShare.util.NetworkUtils
+com/jaydeep/FShare/model/Shareable.java
+ com.jaydeep.FShare.model.Shareable
+com/jaydeep/FShare/dialog/TransferInfoDialog.java
+ com.jaydeep.FShare.dialog.TransferInfoDialog
+ com.jaydeep.FShare.dialog.TransferInfoDialog$1
+ com.jaydeep.FShare.dialog.TransferInfoDialog$1$1
+ com.jaydeep.FShare.dialog.TransferInfoDialog$2
+ com.jaydeep.FShare.dialog.TransferInfoDialog$3
+ com.jaydeep.FShare.dialog.TransferInfoDialog$3$1
+ com.jaydeep.FShare.dialog.TransferInfoDialog$4
+ com.jaydeep.FShare.dialog.TransferInfoDialog$5
+com/jaydeep/FShare/adapter/PathResolverRecyclerAdapter.java
+ com.jaydeep.FShare.adapter.PathResolverRecyclerAdapter
+ com.jaydeep.FShare.adapter.PathResolverRecyclerAdapter$1
+ com.jaydeep.FShare.adapter.PathResolverRecyclerAdapter$Holder
+ com.jaydeep.FShare.adapter.PathResolverRecyclerAdapter$Holder$Index
+ com.jaydeep.FShare.adapter.PathResolverRecyclerAdapter$OnClickListener
+com/jaydeep/FShare/util/IconSupport.java
+ com.jaydeep.FShare.util.IconSupport
+com/jaydeep/FShare/fragment/TransferAssigneeListFragment.java
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$1
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$2
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$3
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$4
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$4$1
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$4$1$1
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$4$1$1$1
+ com.jaydeep.FShare.fragment.TransferAssigneeListFragment$5
+com/jaydeep/FShare/util/NotReadyException.java
+ com.jaydeep.FShare.util.NotReadyException
+com/jaydeep/FShare/util/PreferenceUtils.java
+ com.jaydeep.FShare.util.PreferenceUtils
+com/jaydeep/FShare/service/DeviceScannerService.java
+ com.jaydeep.FShare.service.DeviceScannerService
+com/jaydeep/FShare/util/UIConnectionUtils.java
+ com.jaydeep.FShare.util.UIConnectionUtils
+ com.jaydeep.FShare.util.UIConnectionUtils$1
+ com.jaydeep.FShare.util.UIConnectionUtils$10
+ com.jaydeep.FShare.util.UIConnectionUtils$11
+ com.jaydeep.FShare.util.UIConnectionUtils$12
+ com.jaydeep.FShare.util.UIConnectionUtils$13
+ com.jaydeep.FShare.util.UIConnectionUtils$14
+ com.jaydeep.FShare.util.UIConnectionUtils$2
+ com.jaydeep.FShare.util.UIConnectionUtils$3
+ com.jaydeep.FShare.util.UIConnectionUtils$3$1
+ com.jaydeep.FShare.util.UIConnectionUtils$3$2
+ com.jaydeep.FShare.util.UIConnectionUtils$3$3
+ com.jaydeep.FShare.util.UIConnectionUtils$3$3$1
+ com.jaydeep.FShare.util.UIConnectionUtils$3$4
+ com.jaydeep.FShare.util.UIConnectionUtils$3$5
+ com.jaydeep.FShare.util.UIConnectionUtils$4
+ com.jaydeep.FShare.util.UIConnectionUtils$5
+ com.jaydeep.FShare.util.UIConnectionUtils$6
+ com.jaydeep.FShare.util.UIConnectionUtils$7
+ com.jaydeep.FShare.util.UIConnectionUtils$8
+ com.jaydeep.FShare.util.UIConnectionUtils$9
+ com.jaydeep.FShare.util.UIConnectionUtils$RequestWatcher
+com/jaydeep/FShare/service/DeviceChooserService.java
+ com.jaydeep.FShare.service.DeviceChooserService
+com/jaydeep/FShare/util/HotspotUtils.java
+ com.jaydeep.FShare.util.HotspotUtils
+ com.jaydeep.FShare.util.HotspotUtils$1
+ com.jaydeep.FShare.util.HotspotUtils$HackAPI
+ com.jaydeep.FShare.util.HotspotUtils$OreoAPI
+ com.jaydeep.FShare.util.HotspotUtils$OreoAPI$1
+com/jaydeep/FShare/widget/GroupEditableListAdapter.java
+ com.jaydeep.FShare.widget.GroupEditableListAdapter
+ com.jaydeep.FShare.widget.GroupEditableListAdapter$1
+ com.jaydeep.FShare.widget.GroupEditableListAdapter$GroupEditable
+ com.jaydeep.FShare.widget.GroupEditableListAdapter$GroupLister
+ com.jaydeep.FShare.widget.GroupEditableListAdapter$GroupLister$CustomGroupLister
+ com.jaydeep.FShare.widget.GroupEditableListAdapter$GroupShareable
+ com.jaydeep.FShare.widget.GroupEditableListAdapter$GroupViewHolder
+com/jaydeep/FShare/widget/EditableListAdapterImpl.java
+ com.jaydeep.FShare.widget.EditableListAdapterImpl
+com/jaydeep/FShare/service/WebShareServer.java
+ com.jaydeep.FShare.service.WebShareServer
+ com.jaydeep.FShare.service.WebShareServer$BoundRunner
+ com.jaydeep.FShare.service.WebShareServer$Tools
+ com.jaydeep.FShare.service.WebShareServer$ZipBundleResponse
+ com.jaydeep.FShare.service.WebShareServer$ZipBundleResponse$1
+ com.jaydeep.FShare.service.WebShareServer$ZipBundleResponse$ChunkedOutputStream
+com/jaydeep/FShare/util/CommunicationBridge.java
+ com.jaydeep.FShare.util.CommunicationBridge
+ com.jaydeep.FShare.util.CommunicationBridge$1
+ com.jaydeep.FShare.util.CommunicationBridge$Client
+ com.jaydeep.FShare.util.CommunicationBridge$Client$ConnectionHandler
+ com.jaydeep.FShare.util.CommunicationBridge$CommunicationException
+ com.jaydeep.FShare.util.CommunicationBridge$DifferentClientException
+com/jaydeep/FShare/util/DynamicNotification.java
+ com.jaydeep.FShare.util.DynamicNotification
+com/jaydeep/FShare/fragment/ActiveConnectionListFragment.java
+ com.jaydeep.FShare.fragment.ActiveConnectionListFragment
+ com.jaydeep.FShare.fragment.ActiveConnectionListFragment$1
+ com.jaydeep.FShare.fragment.ActiveConnectionListFragment$2
+ com.jaydeep.FShare.fragment.ActiveConnectionListFragment$2$1
+ com.jaydeep.FShare.fragment.ActiveConnectionListFragment$2$2
+ com.jaydeep.FShare.fragment.ActiveConnectionListFragment$3
+com/jaydeep/FShare/fragment/FileListFragment.java
+ com.jaydeep.FShare.fragment.FileListFragment
+ com.jaydeep.FShare.fragment.FileListFragment$1
+ com.jaydeep.FShare.fragment.FileListFragment$1$1
+ com.jaydeep.FShare.fragment.FileListFragment$2
+ com.jaydeep.FShare.fragment.FileListFragment$3
+ com.jaydeep.FShare.fragment.FileListFragment$4
+ com.jaydeep.FShare.fragment.FileListFragment$4$1
+ com.jaydeep.FShare.fragment.FileListFragment$4$2
+ com.jaydeep.FShare.fragment.FileListFragment$4$2$1
+ com.jaydeep.FShare.fragment.FileListFragment$5
+ com.jaydeep.FShare.fragment.FileListFragment$6
+ com.jaydeep.FShare.fragment.FileListFragment$OnPathChangedListener
+ com.jaydeep.FShare.fragment.FileListFragment$SelectionCallback
+com/jaydeep/FShare/activity/ShareTextActivity.java
+ com.jaydeep.FShare.activity.ShareTextActivity
+com/jaydeep/FShare/base/AppConfig.java
+ com.jaydeep.FShare.base.AppConfig
+com/jaydeep/FShare/dialog/EstablishConnectionDialog.java
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$1
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2$1
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2$1$1
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2$2
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2$3
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2$3$1
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$2$3$2
+ com.jaydeep.FShare.dialog.EstablishConnectionDialog$ConnectionResult
+com/jaydeep/FShare/dialog/FileRenameDialog.java
+ com.jaydeep.FShare.dialog.FileRenameDialog
+ com.jaydeep.FShare.dialog.FileRenameDialog$1
+ com.jaydeep.FShare.dialog.FileRenameDialog$1$1
+ com.jaydeep.FShare.dialog.FileRenameDialog$OnFileRenameListener
+com/jaydeep/FShare/receiver/DialogEventReceiver.java
+ com.jaydeep.FShare.receiver.DialogEventReceiver
+ com.jaydeep.FShare.receiver.DialogEventReceiver$1
+ com.jaydeep.FShare.receiver.DialogEventReceiver$2
+com/jaydeep/FShare/receiver/NetworkStatusReceiver.java
+ com.jaydeep.FShare.receiver.NetworkStatusReceiver
+ com.jaydeep.FShare.receiver.NetworkStatusReceiver$1
+com/jaydeep/FShare/adapter/GroupEditableListFragment.java
+ com.jaydeep.FShare.adapter.GroupEditableListFragment
+com/jaydeep/FShare/BuildConfig.java
+ com.jaydeep.FShare.BuildConfig
+com/jaydeep/FShare/base/ApplicationGlideModule.java
+ com.jaydeep.FShare.base.ApplicationGlideModule
+ com.jaydeep.FShare.base.ApplicationGlideModule$1
+ com.jaydeep.FShare.base.ApplicationGlideModule$ApplicationIconDecoder
+ com.jaydeep.FShare.base.ApplicationGlideModule$ApplicationIconDecoder$1
+ com.jaydeep.FShare.base.ApplicationGlideModule$ApplicationIconModelLoader
+ com.jaydeep.FShare.base.ApplicationGlideModule$ApplicationIconModelLoader$1
+com/jaydeep/FShare/util/OnDeviceSelectedListener.java
+ com.jaydeep.FShare.util.OnDeviceSelectedListener
+com/jaydeep/FShare/adapter/TransferListAdapter.java
+ com.jaydeep.FShare.adapter.TransferListAdapter
+ com.jaydeep.FShare.adapter.TransferListAdapter$1
+ com.jaydeep.FShare.adapter.TransferListAdapter$AbstractGenericItem
+ com.jaydeep.FShare.adapter.TransferListAdapter$DetailsTransferFolder
+ com.jaydeep.FShare.adapter.TransferListAdapter$GenericTransferItem
+ com.jaydeep.FShare.adapter.TransferListAdapter$GroupEditableTransferObjectMerger
+ com.jaydeep.FShare.adapter.TransferListAdapter$GroupEditableTransferObjectMerger$Type
+ com.jaydeep.FShare.adapter.TransferListAdapter$PathChangedListener
+ com.jaydeep.FShare.adapter.TransferListAdapter$StatusItem
+ com.jaydeep.FShare.adapter.TransferListAdapter$StorageStatusItem
+ com.jaydeep.FShare.adapter.TransferListAdapter$TransferFolder
+com/jaydeep/FShare/model/ShowingAssignee.java
+ com.jaydeep.FShare.model.ShowingAssignee
+com/jaydeep/FShare/service/CommunicationService.java
+ com.jaydeep.FShare.service.CommunicationService
+ com.jaydeep.FShare.service.CommunicationService$1
+ com.jaydeep.FShare.service.CommunicationService$2
+ com.jaydeep.FShare.service.CommunicationService$3
+ com.jaydeep.FShare.service.CommunicationService$CommunicationServer
+ com.jaydeep.FShare.service.CommunicationService$CommunicationServer$1
+ com.jaydeep.FShare.service.CommunicationService$CommunicationServer$2
+ com.jaydeep.FShare.service.CommunicationService$CommunicationServer$2$1
+ com.jaydeep.FShare.service.CommunicationService$ProcessHolder
+ com.jaydeep.FShare.service.CommunicationService$Receive
+ com.jaydeep.FShare.service.CommunicationService$SeamlessClientHandler
+ com.jaydeep.FShare.service.CommunicationService$SeamlessServer
+ com.jaydeep.FShare.service.CommunicationService$Send
+com/jaydeep/FShare/service/WorkerService.java
+ com.jaydeep.FShare.service.WorkerService
+ com.jaydeep.FShare.service.WorkerService$1
+ com.jaydeep.FShare.service.WorkerService$LocalBinder
+ com.jaydeep.FShare.service.WorkerService$OnAttachListener
+ com.jaydeep.FShare.service.WorkerService$RunningTask
+ com.jaydeep.FShare.service.WorkerService$RunningTask$1
+com/jaydeep/FShare/model/TransferGroup.java
+ com.jaydeep.FShare.model.TransferGroup
+ com.jaydeep.FShare.model.TransferGroup$Assignee
+ com.jaydeep.FShare.model.TransferGroup$Index
+com/jaydeep/FShare/model/TransferObject.java
+ com.jaydeep.FShare.model.TransferObject
+ com.jaydeep.FShare.model.TransferObject$Flag
+ com.jaydeep.FShare.model.TransferObject$Type
+ com.jaydeep.FShare.model.TransferObject$Virtual
+com/jaydeep/FShare/dialog/WebShareDetailsDialog.java
+ com.jaydeep.FShare.dialog.WebShareDetailsDialog
+com/jaydeep/FShare/view/SelectionIllustratorImageView.java
+ com.jaydeep.FShare.view.SelectionIllustratorImageView
+com/jaydeep/FShare/fragment/NetworkManagerFragment.java
+ com.jaydeep.FShare.fragment.NetworkManagerFragment
+ com.jaydeep.FShare.fragment.NetworkManagerFragment$1
+ com.jaydeep.FShare.fragment.NetworkManagerFragment$2
+ com.jaydeep.FShare.fragment.NetworkManagerFragment$StatusReceiver
+com/jaydeep/FShare/activity/SplashActivity.java
+ com.jaydeep.FShare.activity.SplashActivity
+com/jaydeep/FShare/base/Keyword.java
+ com.jaydeep.FShare.base.Keyword
+ com.jaydeep.FShare.base.Keyword$Flavor
+ com.jaydeep.FShare.base.Keyword$Local
+com/jaydeep/FShare/view/EditableListFragmentImpl.java
+ com.jaydeep.FShare.view.EditableListFragmentImpl
+com/jaydeep/FShare/util/AddressedInterface.java
+ com.jaydeep.FShare.util.AddressedInterface
+com/jaydeep/FShare/widget/PaddingItemDecoration.java
+ com.jaydeep.FShare.widget.PaddingItemDecoration
+com/jaydeep/FShare/dialog/DeviceInfoDialog.java
+ com.jaydeep.FShare.dialog.DeviceInfoDialog
+ com.jaydeep.FShare.dialog.DeviceInfoDialog$1
+ com.jaydeep.FShare.dialog.DeviceInfoDialog$2
+ com.jaydeep.FShare.dialog.DeviceInfoDialog$3
+com/jaydeep/FShare/dialog/SelectionEditorDialog.java
+ com.jaydeep.FShare.dialog.SelectionEditorDialog
+ com.jaydeep.FShare.dialog.SelectionEditorDialog$1
+ com.jaydeep.FShare.dialog.SelectionEditorDialog$2
+ com.jaydeep.FShare.dialog.SelectionEditorDialog$SelfAdapter
+ com.jaydeep.FShare.dialog.SelectionEditorDialog$SelfAdapter$1
+com/jaydeep/FShare/adapter/ActiveConnectionListAdapter.java
+ com.jaydeep.FShare.adapter.ActiveConnectionListAdapter
+ com.jaydeep.FShare.adapter.ActiveConnectionListAdapter$AddressedEditableInterface
+com/jaydeep/FShare/fragment/EditableListFragment.java
+ com.jaydeep.FShare.fragment.EditableListFragment
+ com.jaydeep.FShare.fragment.EditableListFragment$1
+ com.jaydeep.FShare.fragment.EditableListFragment$2
+ com.jaydeep.FShare.fragment.EditableListFragment$3
+ com.jaydeep.FShare.fragment.EditableListFragment$4
+ com.jaydeep.FShare.fragment.EditableListFragment$5
+ com.jaydeep.FShare.fragment.EditableListFragment$6
+ com.jaydeep.FShare.fragment.EditableListFragment$FilteringDelegate
+ com.jaydeep.FShare.fragment.EditableListFragment$LayoutClickListener
+ com.jaydeep.FShare.fragment.EditableListFragment$SelectionCallback
+ com.jaydeep.FShare.fragment.EditableListFragment$SelectionCallback$1
+com/jaydeep/FShare/activity/ConnectionManagerActivity.java
+ com.jaydeep.FShare.activity.ConnectionManagerActivity
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$1
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$1$1
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$1$2
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$2
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$3
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$AvailableFragment
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$DeviceSelectionSupport
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$OptionsFragment
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$OptionsFragment$1
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$OptionsFragment$2
+ com.jaydeep.FShare.activity.ConnectionManagerActivity$RequestType
+com/jaydeep/FShare/fragment/ApplicationListFragment.java
+ com.jaydeep.FShare.fragment.ApplicationListFragment
+ com.jaydeep.FShare.fragment.ApplicationListFragment$1
+ com.jaydeep.FShare.fragment.ApplicationListFragment$1$1
+ com.jaydeep.FShare.fragment.ApplicationListFragment$1$2
+ com.jaydeep.FShare.fragment.ApplicationListFragment$2
+ com.jaydeep.FShare.fragment.ApplicationListFragment$3
+com/jaydeep/FShare/fragment/QRConnectFragment.java
+ com.jaydeep.FShare.fragment.QRConnectFragment
+ com.jaydeep.FShare.fragment.QRConnectFragment$1
+ com.jaydeep.FShare.fragment.QRConnectFragment$10
+ com.jaydeep.FShare.fragment.QRConnectFragment$11
+ com.jaydeep.FShare.fragment.QRConnectFragment$12
+ com.jaydeep.FShare.fragment.QRConnectFragment$2
+ com.jaydeep.FShare.fragment.QRConnectFragment$3
+ com.jaydeep.FShare.fragment.QRConnectFragment$4
+ com.jaydeep.FShare.fragment.QRConnectFragment$5
+ com.jaydeep.FShare.fragment.QRConnectFragment$6
+ com.jaydeep.FShare.fragment.QRConnectFragment$7
+ com.jaydeep.FShare.fragment.QRConnectFragment$8
+ com.jaydeep.FShare.fragment.QRConnectFragment$9
+com/jaydeep/FShare/fragment/NetworkDeviceListFragment.java
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$1
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$2
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$3
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$4
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$4$1
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$5
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$6
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$7
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$8
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$StatusReceiver
+ com.jaydeep.FShare.fragment.NetworkDeviceListFragment$StatusReceiver$1
+com/jaydeep/FShare/util/OrganizeShareRunningTask.java
+ com.jaydeep.FShare.util.OrganizeShareRunningTask
+ com.jaydeep.FShare.util.OrganizeShareRunningTask$1
+com/jaydeep/FShare/activity/FileExplorerActivity.java
+ com.jaydeep.FShare.activity.FileExplorerActivity
+ com.jaydeep.FShare.activity.FileExplorerActivity$1
+com/jaydeep/FShare/adapter/VideoListAdapter.java
+ com.jaydeep.FShare.adapter.VideoListAdapter
+ com.jaydeep.FShare.adapter.VideoListAdapter$VideoHolder
+com/jaydeep/FShare/view/EditableListFragmentModelImpl.java
+ com.jaydeep.FShare.view.EditableListFragmentModelImpl
+com/jaydeep/FShare/dialog/SelectAssigneeDialog.java
+ com.jaydeep.FShare.dialog.SelectAssigneeDialog
+ com.jaydeep.FShare.dialog.SelectAssigneeDialog$1
+ com.jaydeep.FShare.dialog.SelectAssigneeDialog$ListAdapter
+com/jaydeep/FShare/fragment/CustomNetworkDeviceListFragment.java
+ com.jaydeep.FShare.fragment.CustomNetworkDeviceListFragment
+ com.jaydeep.FShare.fragment.CustomNetworkDeviceListFragment$1
+com/jaydeep/FShare/activity/ManageDevicesActivity.java
+ com.jaydeep.FShare.activity.ManageDevicesActivity
+ com.jaydeep.FShare.activity.ManageDevicesActivity$1
+com/jaydeep/FShare/model/TextStreamObject.java
+ com.jaydeep.FShare.model.TextStreamObject
+com/jaydeep/FShare/util/NetworkDeviceSelectedListener.java
+ com.jaydeep.FShare.util.NetworkDeviceSelectedListener
+com/jaydeep/FShare/adapter/TransferGroupListAdapter.java
+ com.jaydeep.FShare.adapter.TransferGroupListAdapter
+ com.jaydeep.FShare.adapter.TransferGroupListAdapter$PreloadedGroup
+com/jaydeep/FShare/activity/ViewTransferActivity.java
+ com.jaydeep.FShare.activity.ViewTransferActivity
+ com.jaydeep.FShare.activity.ViewTransferActivity$1
+ com.jaydeep.FShare.activity.ViewTransferActivity$2
+ com.jaydeep.FShare.activity.ViewTransferActivity$3
+ com.jaydeep.FShare.activity.ViewTransferActivity$4
+ com.jaydeep.FShare.activity.ViewTransferActivity$5
+ com.jaydeep.FShare.activity.ViewTransferActivity$5$1
+ com.jaydeep.FShare.activity.ViewTransferActivity$6
+ com.jaydeep.FShare.activity.ViewTransferActivity$CrunchLatestDataTask
+ com.jaydeep.FShare.activity.ViewTransferActivity$CrunchLatestDataTask$PostExecuteListener
+com/jaydeep/FShare/model/WritablePathObject.java
+ com.jaydeep.FShare.model.WritablePathObject
+com/jaydeep/FShare/dialog/ToggleMultipleTransferDialog.java
+ com.jaydeep.FShare.dialog.ToggleMultipleTransferDialog
+ com.jaydeep.FShare.dialog.ToggleMultipleTransferDialog$1
+ com.jaydeep.FShare.dialog.ToggleMultipleTransferDialog$2
+ com.jaydeep.FShare.dialog.ToggleMultipleTransferDialog$3
+ com.jaydeep.FShare.dialog.ToggleMultipleTransferDialog$ActiveListAdapter
+com/jaydeep/FShare/activity/AddDevicesToTransferActivity.java
+ com.jaydeep.FShare.activity.AddDevicesToTransferActivity
+ com.jaydeep.FShare.activity.AddDevicesToTransferActivity$1
+ com.jaydeep.FShare.activity.AddDevicesToTransferActivity$2
+ com.jaydeep.FShare.activity.AddDevicesToTransferActivity$3
+ com.jaydeep.FShare.activity.AddDevicesToTransferActivity$4
+com/jaydeep/FShare/activity/ContentSharingActivity.java
+ com.jaydeep.FShare.activity.ContentSharingActivity
+ com.jaydeep.FShare.activity.ContentSharingActivity$1
+ com.jaydeep.FShare.activity.ContentSharingActivity$2
+ com.jaydeep.FShare.activity.ContentSharingActivity$2$1
+com/jaydeep/FShare/widget/EditableListAdapter.java
+ com.jaydeep.FShare.widget.EditableListAdapter
+ com.jaydeep.FShare.widget.EditableListAdapter$1
+ com.jaydeep.FShare.widget.EditableListAdapter$EditableViewHolder
+com/jaydeep/FShare/dialog/FolderCreationDialog.java
+ com.jaydeep.FShare.dialog.FolderCreationDialog
+ com.jaydeep.FShare.dialog.FolderCreationDialog$1
+ com.jaydeep.FShare.dialog.FolderCreationDialog$OnFolderCreatedListener
+com/jaydeep/FShare/fragment/TransferGroupListFragment.java
+ com.jaydeep.FShare.fragment.TransferGroupListFragment
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$1
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$2
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$3
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$4
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$5
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$6
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$7
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$8
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$8$1
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$9
+ com.jaydeep.FShare.fragment.TransferGroupListFragment$SelectionCallback
+com/jaydeep/FShare/fragment/ImageListFragment.java
+ com.jaydeep.FShare.fragment.ImageListFragment
+ com.jaydeep.FShare.fragment.ImageListFragment$1
+ com.jaydeep.FShare.fragment.ImageListFragment$1$1
+ com.jaydeep.FShare.fragment.ImageListFragment$1$2
+ com.jaydeep.FShare.fragment.ImageListFragment$1$3
+ com.jaydeep.FShare.fragment.ImageListFragment$2
+com/jaydeep/FShare/model/Comparable.java
+ com.jaydeep.FShare.model.Comparable
+com/jaydeep/FShare/activity/BarcodeScannerActivity.java
+ com.jaydeep.FShare.activity.BarcodeScannerActivity
+ com.jaydeep.FShare.activity.BarcodeScannerActivity$1
+com/jaydeep/FShare/activity/SearchActivity.java
+ com.jaydeep.FShare.activity.SearchActivity
+com/jaydeep/FShare/fragment/MusicListFragment.java
+ com.jaydeep.FShare.fragment.MusicListFragment
+ com.jaydeep.FShare.fragment.MusicListFragment$1
+ com.jaydeep.FShare.fragment.MusicListFragment$1$1
+ com.jaydeep.FShare.fragment.MusicListFragment$1$2
+ com.jaydeep.FShare.fragment.MusicListFragment$2
+com/jaydeep/FShare/dialog/ManualIpAddressConnectionDialog.java
+ com.jaydeep.FShare.dialog.ManualIpAddressConnectionDialog
+ com.jaydeep.FShare.dialog.ManualIpAddressConnectionDialog$1
+ com.jaydeep.FShare.dialog.ManualIpAddressConnectionDialog$2
+com/jaydeep/FShare/model/TitleSupport.java
+ com.jaydeep.FShare.model.TitleSupport
+com/jaydeep/FShare/model/NetworkDevice.java
+ com.jaydeep.FShare.model.NetworkDevice
+ com.jaydeep.FShare.model.NetworkDevice$Connection
+com/jaydeep/FShare/model/Editable.java
+ com.jaydeep.FShare.model.Editable
+com/jaydeep/FShare/dialog/AbstractFailureAwareDialog.java
+ com.jaydeep.FShare.dialog.AbstractFailureAwareDialog
+ com.jaydeep.FShare.dialog.AbstractFailureAwareDialog$1
+ com.jaydeep.FShare.dialog.AbstractFailureAwareDialog$OnProceedClickListener
+com/jaydeep/FShare/util/ProgressDialog.java
+ com.jaydeep.FShare.util.ProgressDialog
+ com.jaydeep.FShare.util.ProgressDialog$1
+ com.jaydeep.FShare.util.ProgressDialog$ViewUpdateHandler
+com/jaydeep/FShare/dialog/ConnectionTestDialog.java
+ com.jaydeep.FShare.dialog.ConnectionTestDialog
+ com.jaydeep.FShare.dialog.ConnectionTestDialog$1
+ com.jaydeep.FShare.dialog.ConnectionTestDialog$ConnectionListAdapter
+com/jaydeep/FShare/dialog/RemoveDeviceDialog.java
+ com.jaydeep.FShare.dialog.RemoveDeviceDialog
+ com.jaydeep.FShare.dialog.RemoveDeviceDialog$1
+com/jaydeep/FShare/util/FileUtils.java
+ com.jaydeep.FShare.util.FileUtils
+com/jaydeep/FShare/activity/MainActivity.java
+ com.jaydeep.FShare.activity.MainActivity
+ com.jaydeep.FShare.activity.MainActivity$1
+ com.jaydeep.FShare.activity.MainActivity$2
+ com.jaydeep.FShare.activity.MainActivity$3
+ com.jaydeep.FShare.activity.MainActivity$4
+ com.jaydeep.FShare.activity.MainActivity$5
+ com.jaydeep.FShare.activity.MainActivity$6
+ com.jaydeep.FShare.activity.MainActivity$ActivityReceiver
+com/jaydeep/FShare/adapter/ApplicationListAdapter.java
+ com.jaydeep.FShare.adapter.ApplicationListAdapter
+ com.jaydeep.FShare.adapter.ApplicationListAdapter$PackageHolder
+com/jaydeep/FShare/adapter/TransferPathResolverRecyclerAdapter.java
+ com.jaydeep.FShare.adapter.TransferPathResolverRecyclerAdapter
+com/jaydeep/FShare/fragment/FileExplorerFragment.java
+ com.jaydeep.FShare.fragment.FileExplorerFragment
+ com.jaydeep.FShare.fragment.FileExplorerFragment$1
+ com.jaydeep.FShare.fragment.FileExplorerFragment$2
+ com.jaydeep.FShare.fragment.FileExplorerFragment$FilePathResolverRecyclerAdapter
+com/jaydeep/FShare/model/UITask.java
+ com.jaydeep.FShare.model.UITask
+com/jaydeep/FShare/view/LongTextBubbleFastScrollViewProvider.java
+ com.jaydeep.FShare.view.LongTextBubbleFastScrollViewProvider
+com/jaydeep/FShare/adapter/SmartFragmentPagerAdapter.java
+ com.jaydeep.FShare.adapter.SmartFragmentPagerAdapter
+ com.jaydeep.FShare.adapter.SmartFragmentPagerAdapter$StableItem
+ com.jaydeep.FShare.adapter.SmartFragmentPagerAdapter$StableItem$1
+com/jaydeep/FShare/util/AppUtils.java
+ com.jaydeep.FShare.util.AppUtils
+ com.jaydeep.FShare.util.AppUtils$1
+ com.jaydeep.FShare.util.AppUtils$2
+ com.jaydeep.FShare.util.AppUtils$3
+ com.jaydeep.FShare.util.AppUtils$QuickActions
+com/jaydeep/FShare/fragment/HotspotManagerFragment.java
+ com.jaydeep.FShare.fragment.HotspotManagerFragment
+ com.jaydeep.FShare.fragment.HotspotManagerFragment$1
+ com.jaydeep.FShare.fragment.HotspotManagerFragment$2
+ com.jaydeep.FShare.fragment.HotspotManagerFragment$3
+ com.jaydeep.FShare.fragment.HotspotManagerFragment$StatusReceiver
+com/jaydeep/FShare/util/ConnectionUtils.java
+ com.jaydeep.FShare.util.ConnectionUtils
+ com.jaydeep.FShare.util.ConnectionUtils$ConnectionCallback
+com/jaydeep/FShare/view/GalleryGroupEditableListFragment.java
+ com.jaydeep.FShare.view.GalleryGroupEditableListFragment
+com/jaydeep/FShare/util/MimeIconUtils.java
+ com.jaydeep.FShare.util.MimeIconUtils
+com/jaydeep/FShare/fragment/TransferFileExplorerFragment.java
+ com.jaydeep.FShare.fragment.TransferFileExplorerFragment
+ com.jaydeep.FShare.fragment.TransferFileExplorerFragment$1
+com/jaydeep/FShare/fragment/TransferListFragment.java
+ com.jaydeep.FShare.fragment.TransferListFragment
+ com.jaydeep.FShare.fragment.TransferListFragment$1
+ com.jaydeep.FShare.fragment.TransferListFragment$2
+ com.jaydeep.FShare.fragment.TransferListFragment$2$1
+ com.jaydeep.FShare.fragment.TransferListFragment$3
+ com.jaydeep.FShare.fragment.TransferListFragment$4
+ com.jaydeep.FShare.fragment.TransferListFragment$5
+ com.jaydeep.FShare.fragment.TransferListFragment$6
+ com.jaydeep.FShare.fragment.TransferListFragment$7
+ com.jaydeep.FShare.fragment.TransferListFragment$7$1
+ com.jaydeep.FShare.fragment.TransferListFragment$8
+ com.jaydeep.FShare.fragment.TransferListFragment$SelectionCallback
+ com.jaydeep.FShare.fragment.TransferListFragment$SelectionCallback$1
+com/jaydeep/FShare/adapter/MusicListAdapter.java
+ com.jaydeep.FShare.adapter.MusicListAdapter
+ com.jaydeep.FShare.adapter.MusicListAdapter$AlbumHolder
+ com.jaydeep.FShare.adapter.MusicListAdapter$SongHolder
+com/jaydeep/FShare/activity/TextEditorActivity.java
+ com.jaydeep.FShare.activity.TextEditorActivity
+ com.jaydeep.FShare.activity.TextEditorActivity$1
+ com.jaydeep.FShare.activity.TextEditorActivity$2
+ com.jaydeep.FShare.activity.TextEditorActivity$2$1
+ com.jaydeep.FShare.activity.TextEditorActivity$2$2
+com/jaydeep/FShare/util/CommunicationNotificationHelper.java
+ com.jaydeep.FShare.util.CommunicationNotificationHelper
+com/jaydeep/FShare/util/TextUtils.java
+ com.jaydeep.FShare.util.TextUtils
+ com.jaydeep.FShare.util.TextUtils$1
+com/jaydeep/FShare/util/InterruptAwareJob.java
+ com.jaydeep.FShare.util.InterruptAwareJob
+com/jaydeep/FShare/adapter/NetworkDeviceListAdapter.java
+ com.jaydeep.FShare.adapter.NetworkDeviceListAdapter
+ com.jaydeep.FShare.adapter.NetworkDeviceListAdapter$EditableNetworkDevice
+ com.jaydeep.FShare.adapter.NetworkDeviceListAdapter$HotspotNetwork
+com/jaydeep/FShare/dialog/RationalePermissionRequest.java
+ com.jaydeep.FShare.dialog.RationalePermissionRequest
+ com.jaydeep.FShare.dialog.RationalePermissionRequest$1
+ com.jaydeep.FShare.dialog.RationalePermissionRequest$2
+ com.jaydeep.FShare.dialog.RationalePermissionRequest$3
+ com.jaydeep.FShare.dialog.RationalePermissionRequest$PermissionRequest
+com/jaydeep/FShare/dialog/AbstractSingleTextInputDialog.java
+ com.jaydeep.FShare.dialog.AbstractSingleTextInputDialog
+com/jaydeep/FShare/model/TransferInstance.java
+ com.jaydeep.FShare.model.TransferInstance
+ com.jaydeep.FShare.model.TransferInstance$1
+ com.jaydeep.FShare.model.TransferInstance$Builder
+com/jaydeep/FShare/util/AddDeviceRunningTask.java
+ com.jaydeep.FShare.util.AddDeviceRunningTask
+ com.jaydeep.FShare.util.AddDeviceRunningTask$1
+ com.jaydeep.FShare.util.AddDeviceRunningTask$2
+ com.jaydeep.FShare.util.AddDeviceRunningTask$2$1
+ com.jaydeep.FShare.util.AddDeviceRunningTask$2$2
+ com.jaydeep.FShare.util.AddDeviceRunningTask$2$3
+ com.jaydeep.FShare.util.AddDeviceRunningTask$2$4
+ com.jaydeep.FShare.util.AddDeviceRunningTask$2$5
+com/jaydeep/FShare/util/DetachListener.java
+ com.jaydeep.FShare.util.DetachListener
+com/jaydeep/FShare/adapter/FileListAdapter.java
+ com.jaydeep.FShare.adapter.FileListAdapter
+ com.jaydeep.FShare.adapter.FileListAdapter$1
+ com.jaydeep.FShare.adapter.FileListAdapter$DirectoryHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$FileHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$FileHolderMerger
+ com.jaydeep.FShare.adapter.FileListAdapter$FileHolderMerger$Type
+ com.jaydeep.FShare.adapter.FileListAdapter$GenericFileHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$PublicDirectoryHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$ReceivedFileHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$RecentFileHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$ShortcutDirectoryHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$StorageHolder
+ com.jaydeep.FShare.adapter.FileListAdapter$StorageHolderImpl
+ com.jaydeep.FShare.adapter.FileListAdapter$WritablePathHolder
+com/jaydeep/FShare/util/ConnectionSetUpAssistant.java
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$1
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$10
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$2
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$3
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$4
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$5
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$6
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$7
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$8
+ com.jaydeep.FShare.util.ConnectionSetUpAssistant$9
+com/jaydeep/FShare/view/ComparativeRelativeLayout.java
+ com.jaydeep.FShare.view.ComparativeRelativeLayout
+com/jaydeep/FShare/activity/Activity.java
+ com.jaydeep.FShare.activity.Activity
+ com.jaydeep.FShare.activity.Activity$1
+ com.jaydeep.FShare.activity.Activity$2
+ com.jaydeep.FShare.activity.Activity$3
+ com.jaydeep.FShare.activity.Activity$OnBackPressedListener
+ com.jaydeep.FShare.activity.Activity$OnPreloadArgumentWatcher
+com/jaydeep/FShare/fragment/HomeFragment.java
+ com.jaydeep.FShare.fragment.HomeFragment
+ com.jaydeep.FShare.fragment.HomeFragment$1
+ com.jaydeep.FShare.fragment.HomeFragment$2
+ com.jaydeep.FShare.fragment.HomeFragment$3
+ com.jaydeep.FShare.fragment.HomeFragment$4
+com/jaydeep/FShare/util/NsdDiscovery.java
+ com.jaydeep.FShare.util.NsdDiscovery
+ com.jaydeep.FShare.util.NsdDiscovery$1
+ com.jaydeep.FShare.util.NsdDiscovery$1$1
+ com.jaydeep.FShare.util.NsdDiscovery$2
+com/jaydeep/FShare/model/FileShortcutObject.java
+ com.jaydeep.FShare.model.FileShortcutObject
+com/jaydeep/FShare/activity/FilePickerActivity.java
+ com.jaydeep.FShare.activity.FilePickerActivity
+ com.jaydeep.FShare.activity.FilePickerActivity$1
+ com.jaydeep.FShare.activity.FilePickerActivity$2
+com/jaydeep/FShare/service/CommunicationToggleTile.java
+ com.jaydeep.FShare.service.CommunicationToggleTile
+com/jaydeep/FShare/util/NetworkDeviceLoader.java
+ com.jaydeep.FShare.util.NetworkDeviceLoader
+ com.jaydeep.FShare.util.NetworkDeviceLoader$1
+ com.jaydeep.FShare.util.NetworkDeviceLoader$OnDeviceRegisteredErrorListener
+ com.jaydeep.FShare.util.NetworkDeviceLoader$OnDeviceRegisteredListener

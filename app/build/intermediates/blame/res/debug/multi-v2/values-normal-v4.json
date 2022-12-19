@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\sem7\\F-Share\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-normal-v4\\values-normal-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\JAYDEEP\\.gradle\\caches\\transforms-2\\files-2.1\\681b8e95be2adc9b215260e3de13e2af\\jetified-framework-1.0.2.8\\res\\values-normal-v4\\values-normal-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                }
+            ]
+        }
+    ]
+}
